@@ -4,9 +4,9 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 
 ## Final Product
 
-!["screenshot description"](#)
-!["screenshot description"](#)
-!["screenshot description"](#)
+!["screenshot of Main page"](https://github.com/Alex-1980/jungle-rails/blob/master/docs/main_page.png?raw=true)
+!["screenshot of Cart page"](https://github.com/Alex-1980/jungle-rails/blob/master/docs/cart_page.png?raw=true)
+!["screenshot of Signup page"](https://github.com/Alex-1980/jungle-rails/blob/master/docs/signup_page.png?raw=true)
 
 ## Setup
 
